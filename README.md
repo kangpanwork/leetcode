@@ -12,17 +12,7 @@
   <a href="https://opencollective.com/doocs-leetcode/sponsors/badge.svg" alt="Sponsors on Open Collective"><img src="https://img.shields.io/opencollective/sponsors/doocs-leetcode?color=42b883&style=flat-square&logo=open%20collective&logoColor=ffffff" /></a>
 </p>
 
-## 介绍
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。欢迎 Star 🌟 关注本项目「[GitHub](https://github.com/doocs/leetcode) / [Gitee](https://gitee.com/doocs/leetcode)」，获取项目最新动态。
-
-[English Version](./README_EN.md)
-
-## 站点
-
-- Netlify: https://lc.netlify.app
-- Gitee Pages: https://doocs.gitee.io/leetcode
-- GitHub Pages: https://doocs.github.io/leetcode
 
 ## LeetCode 全解
 
@@ -228,52 +218,4 @@
 - [第 N 高的薪水](./solution/0100-0199/0177.Nth%20Highest%20Salary/README.md)
 - [分数排名](./solution/0100-0199/0178.Rank%20Scores/README.md)
 
-## 维护者
 
-- [Yang Libin](https://github.com/yanglbme)
-- [Mao Longlong](https://github.com/MaoLongLong)
-
-## 加入我们
-
-刷编程题的最大好处就是可以锻炼解决问题的思维能力。相信我，「如何去思考」​ 本身也是一项需要不断学习和练习的技能。非常感谢前微软工程师、现蚂蚁金服技术专家 [@kfstorm](https://github.com/kfstorm) 贡献了本项目的所有 [C# 题解](https://github.com/doocs/leetcode/pull/245)。
-
-如果你对本项目感兴趣，并且希望加入我们刷题小分队，欢迎随时提交 [PR](https://github.com/doocs/leetcode/pulls)。请参考如下步骤：
-
-1. 将本项目 fork 到你的个人 GitHub / Gitee 帐户，然后 clone 到你的本地机器；
-1. 对项目做出一些变更，然后使用 git add、commit、push 等命令将你的本地变更提交到你的远程 GitHub / Gitee 仓库；
-1. 将你的变更以 PR 的形式提交过来，项目的维护人员会在第一时间对你的变更进行 review！
-1. 你也可以参考帮助文档「[GitHub](https://help.github.com/cn) / [Gitee](https://gitee.com/help)」了解更多细节。
-
-<p align="center">
-  <a href="https://github.com/doocs/leetcode"><img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/images/how-to-contribute.png" alt="how-to-contribute"></a>
-</p>
-
-[Gitpod.io](https://www.gitpod.io) 是一个免费的在线开发环境，你也可以使用它参与本项目。
-
-<a href="https://gitpod.io/#https://github.com/doocs/leetcode" target="_blank" alt="Open in Gitpod"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
-
-## 贡献者
-
-非常感谢以下所有朋友对本项目的贡献，你们是最可爱的人！
-
-<a href="https://github.com/doocs/leetcode/graphs/contributors" target="_blank"><img src="./images/contributors.svg" /></a>
-
-## 赞助者
-
-特别感谢以下个人、组织对本项目的赞助！
-
-<a href="https://opencollective.com/doocs-leetcode/backers.svg?width=890" target="_blank"><img src="https://opencollective.com/doocs-leetcode/backers.svg?width=890"></a>
-
-<a href="https://opencollective.com/doocs-leetcode/sponsors.svg?width=890" target="_blank"><img src="https://opencollective.com/doocs-leetcode/sponsors.svg?width=890"></a>
-
-> "_You help the developer community practice for interviews, and there is nothing better we could ask for._" -- [Alan Yessenbayev](https://opencollective.com/alan-yessenbayev)
-
-## 推荐者
-
-知名互联网科技博主 [@爱可可-爱生活](https://weibo.com/fly51fly) 微博推荐。
-
-<a href="https://weibo.com/fly51fly" target="_blank"><img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/images/recommender-fly51fly.png"></a>
-
-## 许可证
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享 版权归属-相同方式共享 4.0 国际 公共许可证</a>
